@@ -1,2 +1,2 @@
 # Google API Key
-g_key = "API KEY HERE!"
+g_key = "YOUR KEY HERE!"
